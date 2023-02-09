@@ -1,7 +1,8 @@
-# simple-calculator-app
+# Simple Calculator App
 A simple calculator app using vanilla Javascript
 
-Languages used: JavaScript, HTML, CSS
+## Languages
+- JavaScript, HTML, CSS
 
-Methods used:
+## Methods
 - if statement
