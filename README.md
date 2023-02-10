@@ -3,6 +3,3 @@ A simple calculator app using vanilla Javascript
 
 ## Languages
 - JavaScript, HTML, CSS
-
-## Methods
-- if statement
